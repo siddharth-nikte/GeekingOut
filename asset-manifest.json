@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GeekingOut/static/css/main.e0f78871.css",
+    "main.js": "/GeekingOut/static/js/main.4c95eeaa.js",
+    "static/media/mandelbrot-zoom-fractal.gif": "/GeekingOut/static/media/mandelbrot-zoom-fractal.616729975a0dc8d56ea5.gif",
+    "static/media/atom.gif": "/GeekingOut/static/media/atom.32c61092764b0e074a79.gif",
+    "static/media/cGif.gif": "/GeekingOut/static/media/cGif.acde1c411af136755bef.gif",
+    "static/media/D3.jpg": "/GeekingOut/static/media/D3.a31465af2d63a159b9c5.jpg",
+    "static/media/D2.jpg": "/GeekingOut/static/media/D2.9d43cd5be5a35f643714.jpg",
+    "static/media/D1.jpg": "/GeekingOut/static/media/D1.293f7d9e90990857eac3.jpg",
+    "index.html": "/GeekingOut/index.html",
+    "main.e0f78871.css.map": "/GeekingOut/static/css/main.e0f78871.css.map",
+    "main.4c95eeaa.js.map": "/GeekingOut/static/js/main.4c95eeaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f78871.css",
+    "static/js/main.4c95eeaa.js"
+  ]
+}
